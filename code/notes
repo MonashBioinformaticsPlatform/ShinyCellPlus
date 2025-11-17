@@ -1,0 +1,16 @@
+each module has the following structure, each module creates a tab
+
+Function
+renderUI
+renderPlot 
+renderTable (optional)
+downloadHandler
+
+
+
+Functions in one file
+and the tabs as modules per file
+
+
+namespace - ns - several verisons of the same "tab"-"module"
+
